@@ -7,7 +7,7 @@ cask "cinelark" do
   desc "TV-first media library client using IINA for playback"
   homepage "https://github.com/SamsonLab/cinelark"
 
-  depends_on macos: :sonoma
+  depends_on macos: :tahoe
 
   app "CineLark.app"
 
