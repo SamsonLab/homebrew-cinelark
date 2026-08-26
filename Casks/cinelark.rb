@@ -1,6 +1,6 @@
 cask "cinelark" do
-  version "0.1.9"
-  sha256 "c6720dba5ca72c615e43759720a6080f9be898b5dbd07afbc5d2619624b79c06"
+  version "0.1.10"
+  sha256 "34824bdd5fa63a91a3f137872e74fec1ddae61684344f5a14555299da89355a0"
 
   url "https://github.com/SamsonLab/cinelark/releases/download/v#{version}/CineLark_#{version}_universal.dmg"
   name "CineLark"
